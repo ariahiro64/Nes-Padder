@@ -1,5 +1,5 @@
 # Nes-Padder
-A simple program written in d that pads nes (or other) roms so they can be used in Altra64.
+A simple program written in d that pads nes (or other) roms so they can be used in Altra64. Main code by Spicy wolf and adjustments by me.
 
 all thats needed to make is ldc (https://github.com/ldc-developers/ldc#installation) and make
 
