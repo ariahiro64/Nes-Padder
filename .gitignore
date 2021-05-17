@@ -13,6 +13,7 @@
 
 # Executables
 *.exe
+nes-padder
 
 # DUB
 .dub
